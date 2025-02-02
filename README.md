@@ -15,8 +15,8 @@ My primary languages are **C, C++, and Rust**, with a strong emphasis on **perfo
 
 ## GitHub Statistics  
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=emmalt3&show_icons=true&hide_title=true&count_private=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emmalt3&layout=compact)  
 
 ---
 
