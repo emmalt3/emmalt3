@@ -1,6 +1,6 @@
 # About Me  
 
-I am an intermediate programmer focused on building efficient and reliable **command-line applications**.  
+I am a developer focused on building efficient and reliable **command-line applications**.  
 My primary languages are **C, C++, and Rust**, with a strong emphasis on **performance, system programming, and low-level development**.  
 
 ---
@@ -17,7 +17,7 @@ My primary languages are **C, C++, and Rust**, with a strong emphasis on **perfo
 ## Development Environment  
 
 - **OS**: Arch Linux (Primary), Targeting Linux, Windows, and macOS  
-- **Editor**: NeoVim and Vim  
+- **Editor**: NeoVim
 - **Build Systems**: Cargo (Rust) and CMake (C/C++)  
 - **Version Control**: Git  
 
@@ -30,8 +30,8 @@ Whenever possible, I use **portable and minimal dependencies** to maximize compa
 
 ## Focus Areas  
 
-- Writing **portable** and **efficient** software  
+- Writing **portable** and **efficient** software
 - Developing **CLI tools** that work across multiple operating systems  
 - Using **minimal dependencies** for better maintainability  
-- Optimizing **performance and system resource usage**  
-- Development of a large deployment **Harm Reduction based Discord Bot**
+- Optimising **performance and system resource usage**  
+- Development of a large deployment, backend infrastructure for a **Harm Reduction Organisation**
