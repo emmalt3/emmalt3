@@ -1,37 +1,41 @@
-# About Me  
+# About Me
 
-I am a developer focused on building efficient and reliable **command-line applications**.  
-My primary languages are **C, C++, and Rust**, with a strong emphasis on **performance, system programming, and low-level development**.  
+I'm a developer based in North Wales, focused on systems programming, offensive security tooling, and backend infrastructure.  
+I work primarily in **C, C++, and Rust**, with an emphasis on **performance, portability, and low-level development**.
 
----
-
-## Skills & Technologies  
-
-- **Languages**: C, C++, and Rust  
-- **Development**: Systems programming, CLI tools, and performance optimisation  
-
+Outside of tooling and exploit work, I also build and maintain the **backend infrastructure** for a large **harm reduction community**, supporting real time moderation, automation, and safety features.
 
 ---
 
+## Skills & Technologies
 
-## Development Environment  
+- **Languages**: C, C++, Rust  
+- **Specialties**: Systems development, CLI tools, exploit frameworks, and backend automation  
+- **Security Focus**: Offensive tooling, PoC development, infrastructure hardening
 
-- **OS**: Arch Linux (Primary), Targeting Linux, Windows, and macOS  
-- **Editor**: NeoVim
-- **Build Systems**: Cargo (Rust) and CMake (C/C++)  
+---
+
+## Development Environment
+
+- **OS**: Arch Linux (primary); Targeting Linux, Windows, as well as other UNIX systems  
+- **Editor**: NeoVim  
+- **Build Systems**: Cargo (Rust), CMake (C/C++)  
 - **Version Control**: Git  
 
 ---
 
-## Cross-Platform Development  
+## Cross-Platform Development
 
-I primarily develop on **Arch Linux**, but ensure my projects run on the majority of **Linux, Windows, and macOS systems**.  
-Whenever possible, I use **portable and minimal dependencies** to maximize compatibility.  
+I write software that's built to run everywhere - Linux, Windows, and UNIX in general using **portable code** and **minimal dependencies**.  
+This helps ensure both reliability in red team tooling and accessibility in harm reduction tech.
 
-## Focus Areas  
+---
 
-- Writing **portable** and **efficient** software
-- Developing **CLI tools** that work across multiple operating systems  
-- Using **minimal dependencies** for better maintainability  
-- Optimising **performance and system resource usage**  
-- Development of a large deployment, backend infrastructure for a **Harm Reduction Organisation**
+## Focus Areas
+
+- **Portable, efficient CLI tools**  
+- **Low-level exploit development frameworks**  
+- **Backend systems for large-scale Discord communities**  
+- Supporting **offensive security** work and **public interest tech**  
+
+> _Note: Most of my work is private; public repos only show a small slice of what I do._
