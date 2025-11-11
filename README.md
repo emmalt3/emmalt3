@@ -18,7 +18,7 @@ Outside of tooling and exploit work, I also build and maintain the **backend inf
 ## Development Environment
 
 - **OS**: Arch Linux (primary); Targeting Linux, Windows, as well as other UNIX systems  
-- **Editor**: NeoVim  
+- **Editor**: Vim  
 - **Build Systems**: Cargo (Rust), CMake (C/C++)  
 - **Version Control**: Git  
 
