@@ -1,9 +1,9 @@
 # About Me
 
-I'm a developer based in North Wales, focused on systems programming, offensive security tooling, and backend infrastructure.  
+I'm a developer based in North Wales, focused on systems programming, offensive cybersecurity tooling, and backend infrastructure.  
 I work primarily in **C, C++, and Rust**, with an emphasis on **performance, portability, and low-level development**.
 
-Outside of tooling and exploit work, I also build and maintain the **backend infrastructure** for a large **harm reduction community**, supporting real time moderation, automation, and safety features.
+Outside of tooling and exploit work, I also build and maintain the **backend infrastructure** for a large **harm reduction organisation**, supporting real time moderation, automation, and safety features.
 
 ---
 
@@ -26,7 +26,7 @@ Outside of tooling and exploit work, I also build and maintain the **backend inf
 
 ## Cross-Platform Development
 
-I write software that's built to run everywhere - Linux, Windows, and UNIX in general using **portable code** and **minimal dependencies**.  
+I write software that's built to run everywhere; Linux, Windows, and UNIX in general using **portable code** and **minimal dependencies**.  
 This helps ensure both reliability in red team tooling and accessibility in harm reduction tech.
 
 ---
