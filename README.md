@@ -35,7 +35,7 @@ This helps ensure both reliability in red team tooling and accessibility in harm
 
 - **Portable, efficient CLI tools**  
 - **Low-level exploit development frameworks**  
-- **Backend systems for large-scale Discord communities**  
-- Supporting **offensive security** work and **public interest tech**  
+- **Backend systems for large-scale Harm Reduction organisations**  
+- Supporting **offensive cybersecurity** work
 
 > _Note: Most of my work is private; public repos only show a small slice of what I do._
